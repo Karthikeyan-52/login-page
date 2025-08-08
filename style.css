@@ -1,0 +1,77 @@
+
+.container{
+    width: 300px;
+    height: 350px;
+    background-color: rgb(65, 63, 63);
+    margin: 40px;
+    padding: 10px;
+}
+
+.EM{
+   position: absolute;
+   height: 100%;
+   width: 100%;
+   background: rgb(165, 162, 162);
+   border: none;
+   border-bottom: 2px solid white;
+   border-radius: 0.5em;
+   outline: none;
+   color: white;
+   padding-left: 1em;
+}
+.EM:hover{
+    border: 2px solid gray;
+    
+}
+.label{
+    position: absolute;
+    background: white;
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    left: 1em;
+    top: 0.75em;
+    cursor: text;
+    transition: top 350ms ease-in;
+    font-size: 350ms ease-in;
+}
+.PM{
+    border: none;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+.text{
+    font-size: medium;
+    margin: 20px;
+    margin-left: 80px;
+    color:rgb(240, 232, 232);
+    background:none;
+}
+.E{
+    background: none;
+    color: antiquewhite;
+    font-size: large;
+    padding-left: 30px;
+
+}
+.P{
+    background: none;
+    color: antiquewhite;
+    font-size: large;
+    padding-left: 30px;
+    margin-top: 30px;
+}
+.label{
+    position: absolute;
+    left: 1rem;
+    right: 0.8rem;
+    color: aliceblue;
+    width: 300px;
+    height: 30px;
+}
+
+.Email{
+    width: 90%;
+    max-width: 20em;
+    height: 2.5em;
+    position: relative;
+}
