@@ -1,4 +1,6 @@
-
+html{
+    scroll-behavior: smooth;
+}
 .container{
     width: 300px;
     height: 350px;

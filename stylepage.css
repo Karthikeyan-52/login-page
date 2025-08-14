@@ -1,0 +1,95 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    background-image: url('D:\project\pngtree-comic-background-zoom-with-exploding-and-cloud-cartoon-isolated-on-yellow-image_653016.jpg');
+    
+    background-size:cover;
+    
+}
+.top{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    height: 70px;
+    margin-top: 20px;
+    
+}
+.in{
+    display: inline-flex;
+    align-items: center;
+}
+.profile{
+    display: inline-block;
+    margin: 10px;
+    margin-left: 30px;
+    margin-top: 8px;
+    width: 50px;
+    height: 50px;
+    border-radius: 30px;
+    
+}
+
+.name{
+    display: inline-block; 
+    color: aliceblue;  
+}
+
+.but{
+    margin-top: auto;
+    margin-bottom: auto;
+    
+}
+
+.home{
+    color:white;
+    padding: 5px;
+    border: 0px;
+    text-decoration: none;
+}
+.about{
+    color:white;
+    text-decoration: none;
+    margin: 10px;
+}
+.skill{
+    color:white;
+    text-decoration: none;
+    margin: 10px;
+}
+.port{
+    color:white;
+    text-decoration: none;
+    margin: 10px;
+}
+.contact{
+    color:white;
+    text-decoration: none;
+    margin: 3px;
+}
+.icon{
+    
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.icon1{
+    display: inline-block;
+    margin: 10px;
+    width: 28px;
+    height: 28px;
+    
+}
+.icon2{
+    display: inline-block;
+    margin: 10px;
+    width: 30px;
+    height: 30px;
+   
+}
+.icon3{
+    display: inline-block;
+    width: 30px;
+    margin: 10px;
+    height: 30px;
+   
+}

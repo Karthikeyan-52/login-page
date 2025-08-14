@@ -1,0 +1,29 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    background-image: url('download.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.num{
+   
+   text-align: center;
+   margin-top: 300px;
+   color: rgb(255, 255, 255);
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   font-size:100px;
+}
+.aboutme{
+    color: aliceblue;
+    font-size: 30px;
+}
+.A{
+    color: darkturquoise;
+    font-size: 60px;
+}
+.skillme{
+    color: aliceblue;
+    font-size: 30px;
+}
